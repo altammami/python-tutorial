@@ -1,4 +1,4 @@
-# What is programming?
+#🎆 What is programming?
 
 **Feel free to [skip this part](#how-to-read-this-tutorial) if you
 already know everything it's talking about.**
@@ -22,7 +22,7 @@ are written one by one. Programming languages are made to be used by
 humans, so if there's an easy way to do something and a difficult way to
 do something, you should use the easier way.
 
-## What do I need?
+## 🎆 What do I need?
 
 First of all, **you don't need to be good at math**. Some programmers
 are good at math, some are not. Programming and math are two separate
@@ -38,7 +38,7 @@ quickly, and some people don't. I don't expect you to read this tutorial
 in a couple hours and then master everything it's talking about. Take
 your time with things, and remember that I learned to program slowly.
 
-## Getting started
+## 🎆 Getting started
 
 This tutorial uses a programming language called Python because it's
 easy to learn and we can do many different things with it. For example,
